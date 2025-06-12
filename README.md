@@ -64,7 +64,7 @@ Investigated simulated banking logs to identify potential fraud. Used time and l
 ---
 
 ## 📄 Resume & Contact
-📄 My Resume [View PDF](/Users/samga/Downloads/SamuelGalsterRes-2025%20(1).pdf)  
+📄 My Resume [View PDF](SamuelGalsterRes-2025(1).pdf)  
 📫 samgalster13@gmail.com  
 📍 Based in Minneapolis, MN (July, 2025)
 
