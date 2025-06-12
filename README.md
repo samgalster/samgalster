@@ -63,10 +63,10 @@ Investigated simulated banking logs to identify potential fraud. Used time and l
 
 ---
 
-## 📄 Resume & Contact
-📄 My Resume [View PDF]()  
-📫 samgalster13@gmail.com  
-📍 Based in Minneapolis, MN (July, 2025)
+## Contact 
+- 605-593-6798
+- samgalster13@gmail.com  
+- Based in Minneapolis, MN (July, 2025)
 
 
 
